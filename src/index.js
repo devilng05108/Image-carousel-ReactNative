@@ -8,6 +8,7 @@ import styles, { colors } from 'src/styles/index.style';
 import { ENTRIES1, ENTRIES2 } from 'src/static/entries';
 import { scrollInterpolators, animatedStyles } from 'src/utils/animations';
 
+//image carousel 
 const IS_ANDROID = Platform.OS === 'android';
 const SLIDER_1_FIRST_ITEM = 1;
 
